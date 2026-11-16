@@ -25,5 +25,5 @@ Place the dataset at `data/sensor_telemetry_dataset.csv`.
 Source and licence: *add link here*.
 
 ## Limitations
-- Thresholds (20% / 28 °C) are illustrative, not agronomically calibrated.
+- The thresholds used in the project (20% soil moisture and 28°C temperature) are provided as example values and have not been scientifically calibrated for specific crops or farming conditions.
 - Alerts flag risk; the project does not measure actual water saved.
