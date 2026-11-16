@@ -1,6 +1,6 @@
 # AgriTech Data Analytics & Monitoring Dashboard
 
-A Python + Power BI project that turns farm sensor readings into irrigation-risk alerts, to allow non-technical users to make informed decisions about farm irrigation. With climate change increasing water stresses around the globe, efficient and effective irrigation will become a priority into the future, with water shortfalls predicted to be nearly 5 billion litres per day in 2050, in England alone.
+A Python + Power BI project that turns farm sensor readings into irrigation-risk alerts, to allow non-technical users to make informed decisions about farm irrigation. With climate change increasing water stresses around the globe, efficient and effective irrigation will become a priority in the future, with water shortfalls predicted to be nearly 5 billion litres per day in 2050, in England alone.
 
 ## What it does
 - **Pipeline (`src/data_pipeline.py`)** – loads ~10,000 farm records with Pandas, validates and cleans them, and exports `data/processed/farm_stress_alerts.csv`.
