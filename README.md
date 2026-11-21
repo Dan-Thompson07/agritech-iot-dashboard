@@ -30,4 +30,4 @@ Source and licence: *add link here*.
 
 ## Dashboard
 
-![Dashboard demo](docs/dashboard_demo.gif)
+![Dashboard demo](Dashboard/dashboard_demo.gif)
