@@ -29,5 +29,6 @@ Source and licence: *add link here*.
 - Alerts flag risk; the project does not measure actual water saved.
 
 ## Dashboard
+![Farm moisture stress dashboard](Dashboard/Dashboard_screenshot.png)
 
 ![Dashboard demo](Dashboard/dashboard_demo.gif)
