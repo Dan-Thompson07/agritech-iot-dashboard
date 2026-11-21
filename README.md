@@ -30,5 +30,6 @@ Source and licence: *add link here*.
 
 ## Dashboard
 ![Farm moisture stress dashboard](Dashboard/Dashboard_screenshot.png)
-
+*Overview of the Power BI dashboard: summary cards (total farms, flagged farms, flagged %, critical farms), the split of farms by stress level, stress level by crop type, and a scatter plot of soil moisture against temperature with the 20% and 28 °C alert thresholds marked.*
 ![Dashboard demo](Dashboard/dashboard_demo.gif)
+*Interactive demo: selecting a stress level or crop type in the slicers filters every chart on the page, so a non-technical user can quickly see which farms and crops are at risk.*
